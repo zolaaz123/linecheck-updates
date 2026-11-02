@@ -1,0 +1,9 @@
+{
+  "version": "0.1.7",
+  "url": "https://github.com/zolaaz123/linecheck-updates/releases/download/v0.1.7/linecheck-update-0.1.7.tar.gz",
+  "sha256": "4068df5ef12e80d426bb5160d9b714f88c457592d520d38409bea5e361281c3b",
+  "size": 1130709,
+  "minShell": "0.1.0",
+  "notes": "Första versionen med uppdateringar i appen.",
+  "signature": "qRBJkTG8MTtOd/vuzJ1gIxg3ysdo6inSLW3gXXjWFmAzKSvREwwTM0/Ph1JFCqnUarcmM92bdxlNghWybO0+AQ=="
+}
