@@ -1,9 +1,9 @@
 {
-  "version": "0.1.8",
-  "url": "https://github.com/zolaaz123/linecheck-updates/releases/download/v0.1.8/linecheck-update-0.1.8.tar.gz",
-  "sha256": "6745ef117d002e8a7c899bf4e9cfe79dcffbe081a9703d3c4072538d4853f7b1",
-  "size": 1130710,
+  "version": "0.1.9",
+  "url": "https://github.com/zolaaz123/linecheck-updates/releases/download/v0.1.9/linecheck-update-0.1.9.tar.gz",
+  "sha256": "7650388a144df484997bc173ad0c1f579ab3969d0c38ba02f179605a073549d9",
+  "size": 1133801,
   "minShell": "0.1.0",
-  "notes": "Test av uppdatering. Inga nya funktioner.",
-  "signature": "wzzeDcHVsI+NnWZ2DF6I6ax9GkZJIdDLJ8A50K/kfItbJGBpypuBoslokPrsfiULsq4WnjWl0cIS9+Q6PiyfDA=="
+  "notes": "Logga in med Google under Molnsynk.",
+  "signature": "GHNLlruOunuYZuOZSMjGQ+eLz9+08a5uArflL4MBb100nIpsDSnx/DCTSsSytqA3vtjH0yELTnjq3LaTrFsfBQ=="
 }
