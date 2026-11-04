@@ -1,9 +1,10 @@
 {
-  "version": "0.1.9",
-  "url": "https://github.com/zolaaz123/linecheck-updates/releases/download/v0.1.9/linecheck-update-0.1.9.tar.gz",
-  "sha256": "7650388a144df484997bc173ad0c1f579ab3969d0c38ba02f179605a073549d9",
-  "size": 1133801,
+  "version": "0.1.12",
+  "url": "https://github.com/zolaaz123/linecheck-updates/releases/download/v0.1.12/linecheck-update-0.1.12.tar.gz",
+  "sha256": "e3174aac72749c567c22a796f73be09e4beae25e17d64fbcd6e97e6d269137f6",
+  "size": 1151740,
   "minShell": "0.1.0",
-  "notes": "Logga in med Google under Molnsynk.",
-  "signature": "GHNLlruOunuYZuOZSMjGQ+eLz9+08a5uArflL4MBb100nIpsDSnx/DCTSsSytqA3vtjH0yELTnjq3LaTrFsfBQ=="
+  "panelApi": 1,
+  "notes": "",
+  "signature": "N3RqomxBiYX5DbtYwXc3IJn70XjU2iukFaCVFVVs6kOp35iozqmT8b1xrrPofXahExIRe6fE27o3yoQjb83cBg=="
 }
