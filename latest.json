@@ -1,10 +1,10 @@
 {
-  "version": "0.1.22",
-  "url": "https://github.com/zolaaz123/linecheck-updates/releases/download/v0.1.22/linecheck-update-0.1.22.tar.gz",
-  "sha256": "52c8087ac51264c91ad044247d0a75e623855555c23d531ccea2811d96959200",
-  "size": 2224954,
+  "version": "0.1.25",
+  "url": "https://github.com/zolaaz123/linecheck-updates/releases/download/v0.1.25/linecheck-update-0.1.25.tar.gz",
+  "sha256": "cfe42c1e227e82ce4511b9525f3c53c4b480063272e0c98241e756fecb771e0d",
+  "size": 2249684,
   "minShell": "0.1.0",
   "panelApi": 1,
   "notes": "",
-  "signature": "zXx3aFR4roq3CAl47YUGNPBjR9IJCcASEMbfJCqqgwb3KOhCaJZ8SEDwHT1osIqJ4OarOkIyUytvNfUvJ8ESAw=="
+  "signature": "gprQmsGhvuHrwO1cDr18dDMMafCoNZryLr+C00JSKDInOwEuVaFA45QlbOQdJ//8RuNn2xppmGWIQCXK2zamAg=="
 }
